@@ -6,4 +6,5 @@ defmodule Aoc2024Test do
   doctest Mix.Tasks.Aoc2024.Day1
   doctest Mix.Tasks.Aoc2024.Day2
   doctest Mix.Tasks.Aoc2024.Day3
+  doctest Mix.Tasks.Aoc2024.Day4
 end
